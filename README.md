@@ -1,1 +1,1 @@
-# JPO_projekt_Wojciech_Kaminski
+# Wersja kodu z użyciem biblioteki SFML
