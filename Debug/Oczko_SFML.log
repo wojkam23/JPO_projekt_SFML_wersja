@@ -1,0 +1,9 @@
+﻿  Oczko_SFML.cpp
+C:\Users\DELL\Desktop\JPO_projekt\SFML\Oczko_SFML\Oczko_SFML.cpp(24,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\DELL\Desktop\JPO_projekt\SFML\Oczko_SFML\Oczko_SFML.cpp(25,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\DELL\Desktop\JPO_projekt\SFML\Oczko_SFML\Oczko_SFML.cpp(62,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\DELL\Desktop\JPO_projekt\SFML\Oczko_SFML\Oczko_SFML.cpp(91,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\DELL\Desktop\JPO_projekt\SFML\Oczko_SFML\Oczko_SFML.cpp(93,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\DELL\Desktop\JPO_projekt\SFML\Oczko_SFML\Oczko_SFML.cpp(184,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\DELL\Desktop\JPO_projekt\SFML\Oczko_SFML\Oczko_SFML.cpp(193,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Oczko_SFML.vcxproj -> C:\Users\DELL\Desktop\JPO_projekt\SFML\Oczko_SFML\Debug\Oczko_SFML.exe
